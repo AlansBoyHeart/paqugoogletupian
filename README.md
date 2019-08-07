@@ -1,2 +1,2 @@
 # paqugoogletupian
-a crawl download google picture
+a crawl download google picture and baidu picture
